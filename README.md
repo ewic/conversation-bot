@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Discord.js v14 Bot Template</h1>
+<h1 style="text-align:center;">DiscordJS Conversation Bot Linked to Airtable</h1>
 
 ## Features
 
